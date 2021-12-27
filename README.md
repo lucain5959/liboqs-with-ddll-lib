@@ -2,6 +2,7 @@
 
 liboqs
 ======================
+I have included a built Lib and DLL for windows x64 systems.
 
 liboqs is an open source C library for quantum-safe cryptographic algorithms.
 
