@@ -8,7 +8,6 @@ import hashlib
 import oqs.rand as rand
 import time
 import secrets
-from pqcrypto.kem.mceliece8192128 import generate_keypair
 
 
 
