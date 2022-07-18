@@ -1,0 +1,1 @@
+Go to /etc/ld.so.conf edit it to have the path without a period of the liboqs.so, example: /home/doge/liboqs/build/lib
